@@ -1,1 +1,1 @@
-# ConsoleApp2
+Una vez se clona el repositorio es nececario abrir C:\Users\"su user"\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0 y ejecutar el punto exe una 3 veces con lapsos de 5 segundos entre ejecucion para garantizar el funcionamiento de srvidor y los clientes
